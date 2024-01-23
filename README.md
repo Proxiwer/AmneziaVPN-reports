@@ -1,4 +1,4 @@
-# AmneziaVPN-Bugs-and-Feature
+# AmneziaVPN Bugs-and-Feature
 Сбор и обработка информации о багах/фичах клиента AmneziaVPN.
 Актуальная версия клиента AmneziaVPN - **4.2.0.1**.
 
